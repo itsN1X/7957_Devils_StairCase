@@ -1,5 +1,6 @@
 # 7957_Devils_StairCase
-![](112.png) v/s ![](1211.jpg)
+![](112.png) v/s ![](1211.jpg) v/s  a temporal correlation to ![](wk.png) at the `#et7956` timeseries datapoints.
+
 ### References:
 
  - [ ] 1: Mons. [Minkowski](https://en.wikipedia.org/wiki/Hermann_Minkowski) !
@@ -7,8 +8,10 @@
 
 ### Cold Rex
 
+
+`/* Minkowski's question-mark function */`
+
 ```
-/* Minkowski's question-mark function */
 double minkowski(double x) {
         long p=x; if ((double)p>x) --p; /* p=floor(x) */
         long q=1, r=p+1, s=1, m, n;
