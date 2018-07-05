@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/)
+     and minimized by hand (and now it's more readable) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="242.20955"
+   height="106.86376">
+  <title>Plot of Minkowski function: ?(x) - x</title>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>Plot of Minkowski function: ?(x) - x</dc:title>
+        <dc:date>2014-01-05</dc:date>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:description>Plot of Minkowski question mark function: f(x) = ?(x) - x</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>https://commons.wikimedia.org/wiki/User:Xoneca</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style type="text/css">
+      .axes {
+        color:#000;
+        fill:none;
+        stroke:#000;
+        stroke-width:1;
+      }
+      .plot {
+          fill:none;
+          stroke:#f00;
+          stroke-width:1;
+      }
+      text {
+          font-family:sans-serif;
+          fill:#000;
+          stroke:none;
+      }
+      .labels {
+          font-size:8px;
+      }
+      .labels-h {
+          text-align:center;
+          text-anchor:middle;
+      }
+      .labels-v {
+          text-align:end;
+          text-anchor:end;
+      }
+      .ax-label {
+          font-size:10px;
+          font-style:italic;
+          text-align:start;
+          text-anchor:start;
+      }
+    </style>
+  </defs>
+
+  <path class="axes" d="m 10.850612,60.67514 207.781998,0"/>
+  <path class="axes" d="m 67.015624,24.986518 0,71.377242"/>
+
+  <path class="axes" d="m 64.258194,31.73339 5.51486,0"/>
+  <path class="axes" d="m 64.258194,41.38064 5.51486,0"/>
+  <path class="axes" d="m 64.258194,51.02789 5.51486,0"/>
+  <path class="axes" d="m 64.258194,70.32239 5.51486,0"/>
+  <path class="axes" d="m 64.258194,79.96964 5.51486,0"/>
+  <path class="axes" d="m 64.258194,89.616894 5.51486,0"/>
+
+  <path class="axes" d="m 17.265627,57.526525 0,6.29723"/>
+  <path class="axes" d="m 27.215627,57.526525 0,6.29723"/>
+  <path class="axes" d="m 37.165628,57.526525 0,6.29723"/>
+  <path class="axes" d="m 47.115622,57.526525 0,6.29723"/>
+  <path class="axes" d="m 57.065631,57.526525 0,6.29723"/>
+  <path class="axes" d="m 76.965625,57.526525 0,6.29723"/>
+  <path class="axes" d="m 86.915626,57.526525 0,6.29723"/>
+  <path class="axes" d="m 96.865625,57.526525 0,6.29723"/>
+  <path class="axes" d="m 106.81562,57.526525 0,6.29723"/>
+  <path class="axes" d="m 116.76562,57.526525 0,6.29723"/>
+  <path class="axes" d="m 126.71562,57.526525 0,6.29723"/>
+  <path class="axes" d="m 136.66562,57.526525 0,6.29723"/>
+  <path class="axes" d="m 146.61561,57.526525 0,6.29723"/>
+  <path class="axes" d="m 156.56563,57.526525 0,6.29723"/>
+  <path class="axes" d="m 166.51562,57.526525 0,6.29723"/>
+  <path class="axes" d="m 176.46562,57.526525 0,6.29723"/>
+  <path class="axes" d="m 186.41561,57.526525 0,6.29723"/>
+  <path class="axes" d="m 196.36562,57.526525 0,6.29723"/>
+  <path class="axes" d="m 206.31563,57.526525 0,6.29723"/>
+  <path class="axes" d="m 216.26563,57.526525 0,6.29723"/>
+
+  <text class="labels labels-h" x="216.17773" y="72.833061">1.5</text>
+  <text class="labels labels-h" x="166.34375" y="72.833061">1.0</text>
+  <text class="labels labels-h" x="116.59374" y="72.833061">0.5</text>
+  <text class="labels labels-h" x="17.421875" y="72.833061">-0.5</text>
+
+  <text class="labels labels-v" x="61.258194" y="44.292751">0.1</text>
+  <text class="labels labels-v" x="60.498123" y="82.88176">-0.1</text>
+
+  <text class="ax-label" x="226.20857" y="63.409515" style="text-align:start;text-anchor:start">x</text>
+  <text class="ax-label" x="100.41292" y="17.587891" style="text-align:end;text-anchor:end">?(x) - x</text>
+
+  <path class="plot" d="m 17.265627,60.67514 1,1 1,2 1,2 1,1 1,-1 1,-1 1,-3 1,-1 1,-4 1,-1 1,0 1,-6 1,-2 1,-4 1,-2 1,2 1,1 1,2 1,0 1,-2 2,-3 0,-1 1,-3 1,-3 1,1 1,2 1,-1 1,-1 1,-2 1,0 1,1 1,0 1,-1 1,1 1,0 1,2 1,0 1,2 1,1 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,1 1,2 1,2 1,1 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,1 1,2 1,0 1,2 1,0 1,1 1,-1 1,0 1,1 1,0 1,-2 1,-1 1,-1 1,2 1,1 1,-3 1,-3 0,-1 2,-3 1,-2 1,0 1.000003,2 1,1 1,2 1,-2 1,-4 1,-2 1,-6 1,0 1,-1 1,-4 1,-1 1,-3 1,-1 1,-1 1,1 1,2 1,2 1,1 1,1 1,2 1,2 1,1 1,-1 1,-1 0,-3 1,-1 2,-4 1,-1 0.99999,0 1,-6 1,-2 1,-4 1,-2 1,2 1,1 1.00001,2 1,0 1,-2 1,-3 1,-1 1,-3 1,-3 1,1 1,2 1,-1 1,-1 1,-2 1,0 1,1 1,0 1,-1 1,1 1,0 1,2 1,0 1,2 1,1 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,1 1,2 1,2 1,1 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,2 1,1 0,2 1,0 1,2 1,0 2,1 1,-1 1,0 1,1 1,0 1,-2 1,-1 1,-1 1,2 1,1 1,-3 1,-3 1,-1 1,-3 1,-2 1,0 1,2 1,1 1,2 1,-2 1,-4 1,-2 1,-6 1,-1 1,0 1,-4 1,-1 1,-3 1,-1 1,-1 1,1 1,2 1,2 1,1"/>
+</svg>
