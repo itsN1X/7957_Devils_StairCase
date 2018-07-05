@@ -20,5 +20,15 @@ double minkowski(double x) {
 }
 ```
 
-See files like:
-![](f11.jpg) and ![](112.png)
+### See files like:
+
+![](1.svg)
+
+and also, 
+
+![](112.png)
+
+
+---
+
+## More c00L hedges to be unravelled at [`N1X.site`](https://n1x.site)
