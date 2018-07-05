@@ -1,5 +1,5 @@
 # 7957_Devils_StairCase
-![](112.png)
+![](112.png) v/s ![](1211.jpg)
 ### References:
 
  - [ ] 1: Mons. [Minkowski](https://en.wikipedia.org/wiki/Hermann_Minkowski) !
