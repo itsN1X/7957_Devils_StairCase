@@ -1,4 +1,11 @@
 # 7957_Devils_StairCase
+![](112.png)
+### References:
+
+ - [ ] 1: Mons. [Minkowski](https://en.wikipedia.org/wiki/Hermann_Minkowski) !
+ - [ ] 2: Mons. [Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) !!
+
+### Cold Rex
 
 ```
 /* Minkowski's question-mark function */
@@ -24,9 +31,17 @@ double minkowski(double x) {
 
 ![](1.svg)
 
-and also, 
 
-![](112.png)
+### More meta to glob upon!
+
+#### Definition
+
+!: `Cantor function` - To formally define the Cantor function 'c' : [0,1] → [0,1], let x be in [0,1] and obtain c(x) by the following steps:
+
+ - Express x in base 3.
+ - If x contains a 1, replace every digit after the first 1 by 0.
+ - Replace all 2s with 1s.
+ - Interpret the result as a binary number. The result is c(x)
 
 
 ---
